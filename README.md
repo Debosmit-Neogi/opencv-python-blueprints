@@ -17,13 +17,13 @@ ISBN 978-178528269-0
 
 This book demonstrates how to develop a series of intermediate to advanced projects using OpenCV and Python,
 rather than teaching the core concepts of OpenCV in theoretical lessons. Instead, the working projects
-developed in this book teach the reader how to apply their theoretical knowledge to topics such as
-image manipulation, augmented reality, object tracking, 3D scene reconstruction, statistical learning,
+developed in this book teach the readers how to apply their theoretical knowledge to topics such as
+image manipulation, Augmented Reality (AR), object tracking, 3D scene reconstruction, statistical learning,
 and object categorization.
 
 By the end of this book, readers will be OpenCV experts whose newly gained experience allows them to develop their own advanced computer vision applications.
 
-If you use either book or code in a scholarly publication, please cite as:
+If you use either the book or the code in a scholarly publication, please cite as:
 > M. Beyeler, (2015). OpenCV with Python Blueprints: Design and develop advanced computer vision projects using OpenCV with Python. Packt Publishing Ltd., London, England, 230 pages, ISBN 978-
 178528269-0.
 
@@ -40,7 +40,7 @@ Or use the following bibtex:
 }
 ```
 
-Scholarly work referencing this book:
+Scholarly works referencing this book:
 - B Zhang et al. (2018). Automatic matching of construction onsite resources under camera views. *Automation in Construction*.
 - A Jakubović & J Velagić (2018). Image Feature Matching and Object Detection Using Brute-Force Matchers. *International Symposium ELMAR*.
 - B Zhang et al. (2018). Multi-View Matching for Onsite Construction Resources with Combinatorial Optimization. *International Symposium on Automation and Robotics in Construction (ISARC)* 35:1-7.
